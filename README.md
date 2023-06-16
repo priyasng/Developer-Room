@@ -25,7 +25,7 @@ Users can delete their own posts and comments.
 
 ## Tech Stack used: 
 
- Frontend:
+ Frontend:-
 HTML
 ,CSS
 ,JavaScript
