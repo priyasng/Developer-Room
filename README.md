@@ -1,27 +1,20 @@
 # Developer Room App
 
-This is a web application where developers can connect, share their profiles, experiences, education, and interact with other developers.
-
 # Features
 
-## User Authentication:
+1. Userscanloginandregister.
 
-Users can register and log in to the platform.
+2. Theycancreate,updateanddeletetheprofiles,experienceandeducationtokeepitlatestupdated.
 
-## Profile Management:
+3. Userscanalsoviewtheprofileofotherdevelopersregisteredinthisplatform.
 
-Users can create, update, and delete their profiles, including experiences and education.
-Profiles are kept up-to-date with the latest information.
+4. Theycanalsoposttext,posttextwithimage,likeandcommentonthepostandcanalsoviewthepostpostedbyotherdevelopers.
 
-## Developer Profiles:
+5. Usercanalsodeletetheirownpostsandcomments.
 
-Users can view the profiles of other registered developers on the platform.
 
-## Social Interaction:
+This is a web application where developers can connect, share their profiles, experiences, education, and interact with other developers.
 
-Users can post text and text with images.
-Users can like and comment on posts made by other developers.
-Users can delete their own posts and comments.
 
 ## Tech Stack used: 
 
@@ -38,8 +31,6 @@ Node.js
 ## Deployment
 Render and Netlify
 
-
-## Website link https://psdeveloproom.netlify.app/
 
 
 ## Contribution
