@@ -2,15 +2,16 @@
 
 # Features
 
-1. Userscanloginandregister.
+1. Users can login and register.
 
-2. Theycancreate,updateanddeletetheprofiles,experienceandeducationtokeepitlatestupdated.
+2. They can create,update and delete the profiles,experience and education to 
+keep it latest updated.
 
-3. Userscanalsoviewtheprofileofotherdevelopersregisteredinthisplatform.
+3. Users can also view the profile of other developers registered in this platform.
 
-4. Theycanalsoposttext,posttextwithimage,likeandcommentonthepostandcanalsoviewthepostpostedbyotherdevelopers.
+4. They can also post text,post text with image,like and comment on the post and can also view the post posted by other developers.
 
-5. Usercanalsodeletetheirownpostsandcomments.
+5. User can also delete their own posts and comments.
 
 
 This is a web application where developers can connect, share their profiles, experiences, education, and interact with other developers.
